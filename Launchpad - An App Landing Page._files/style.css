@@ -281,10 +281,10 @@ section {
 	filter: alpha(opacity=50);
 }
 .applestore {
-	background-image: url(./Launchpad - An App Landing Page._files/applestore.png);
+	background-image: url(https://raw.github.com/lcdvirgo/PayForward/master/Launchpad%20-%20An%20App%20Landing%20Page._files/applestore.png);
 }
 .applestore:hover {
-	background-image: url(./Launchpad - An App Landing Page._files/applestore_hover.png);
+	background-image: url(https://raw.github.com/lcdvirgo/PayForward/master/Launchpad%20-%20An%20App%20Landing%20Page._files/applestore_hover.png);
 }
 .googleplay {
 	background-image: url(../images/googleplay.png);
